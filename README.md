@@ -71,7 +71,7 @@
 
 <p align="center">
   <a href="">
-    <img src="https://img.youtube.com/vi/_Qb7Pq0Xavs/maxresdefault.jpg" width="650" alt="Tutorial Video" style="border-radius: 12px;"/>
+    <img src=""/>
   </a>
 </p>
 <p align="center">
